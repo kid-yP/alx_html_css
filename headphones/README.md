@@ -1,6 +1,3 @@
-alx-headphones
-alx logo
-
 This webpage has been designed by Kidus Yosef, an aspiring front-end web developer.
 
 This project required us to
